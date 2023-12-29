@@ -1,9 +1,9 @@
 ---
 title: "Dicas para análise de código ofuscado"
-date: 2023-12-29
+date: 2023-12-27
 # weight: 1
 # aliases: ["/first"]
-tags: ["code"]
+tags: ["code", "pt"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true

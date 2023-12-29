@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pt on thalysonz</title>
+    <link>https://thalysonz.github.io/tags/pt/</link>
+    <description>Recent content in pt on thalysonz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thalysonz.github.io/tags/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dicas para análise de código ofuscado</title>
+      <link>https://thalysonz.github.io/posts/dicas-para-analise-de-codigo-obfuscado/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thalysonz.github.io/posts/dicas-para-analise-de-codigo-obfuscado/</guid>
+      <description>Introdução Finalizei minha análise estática no código do malware PixPirate. Uma parte significativa desse período foi dedicada a desofuscar os arquivos JavaScript utilizados pelo malware, que se empenhou bastante em dificultar a análise por parte de terceiros.&#xA;Como pode ser visto nas imagens abaixo, todos os arquivos presentes em &amp;ldquo;project.zip&amp;rdquo;, que é executado pelo malware usando o AutoJS (ferramenta responsável por cuidar da automação JS), estão ofuscados. Então, decidi aproveitar que estou focado nisso e trazer algumas dicas que podem ajudar caso vocês se deparem com algum código JavaScript obfuscado de agora em diante.</description>
+    </item>
+  </channel>
+</rss>

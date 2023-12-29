@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WCD on thalysonz</title>
+    <link>https://thalysonz.github.io/tags/wcd/</link>
+    <description>Recent content in WCD on thalysonz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thalysonz.github.io/tags/wcd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Cache Deception: Some Real Cases</title>
+      <link>https://thalysonz.github.io/posts/web-cache-deception/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thalysonz.github.io/posts/web-cache-deception/</guid>
+      <description>Web Cache Deception (WCD) Web Cache Deception (WCD) is an attack in which an attacker tricks a cache proxy into improperly storing private information sent over the Internet, gaining unauthorized access to these cached data. It was proposed by Omer Gil, a security researcher, in 2017.&#xA;Introduction Many are already aware of what Web Cache Deception is and how its exploitation works, so today I wanted to bring something different and show some real scenarios that I reported in 2023 in bug bounty programs.</description>
+    </item>
+  </channel>
+</rss>
