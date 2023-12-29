@@ -8,7 +8,7 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "real scenarios that I reported in 2023 in bug bounty programs"
@@ -26,6 +26,6 @@ UseHugoToc: true
 ---
 
 ## Race Condition
--
+- DRAFT
 ## Introduction
--
+- DRAFT

@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thalysonz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Race Condition: Some Real Cases</title>
+      <link>https://thalysonz.github.io/posts/race-condition-real-cases/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thalysonz.github.io/posts/race-condition-real-cases/</guid>
+      <description>Race Condition DRAFT Introduction DRAFT </description>
+    </item>
+    <item>
       <title>Web Cache Deception: Some Real Cases</title>
       <link>https://thalysonz.github.io/posts/web-cache-deception/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
