@@ -1,11 +1,9 @@
 ---
 title: "DeepLink Misconfiguration: Accessing PIX and Account Data"
 date: 2024-05-26
-# weight: 1
-# aliases: ("/first")
-tags: ("mobile", "bug-bounty", "en")
+tags: ["mobile", "bug-bounty", "en"]
 author: "Me"
-# author: ("Me", "You") # multiple authors
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
@@ -23,16 +21,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*zCwIgHCFhgCyZrNTB93WTw.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/thalysonz.github.io/posts/deeplink-misconfiguration-pix/"
-    Text: "s" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 While analyzing an application, I noticed that some deeplink calls contained the "path" parameter, and this parameter was being used to define the path of the WebView that the application was accessing.

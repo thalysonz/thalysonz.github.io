@@ -6,8 +6,22 @@
     <description>Recent content in Bug-Bounty on thalysonz</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/bug-bounty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring mTLS in Mobile Applications</title>
+      <link>http://localhost:1313/posts/mtls-mobile/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mtls-mobile/</guid>
+      <description>Exploring mTLS in Mobile Applications Today, I will present a case study on mTLS that I conducted in a private bug bounty program.&#xA;mTLS (Mutual TLS) is a method of mutual authentication that ensures both parties in a network connection are who they claim to be. In an mTLS connection, the server verifies the client&amp;rsquo;s certificate, and the client verifies the server&amp;rsquo;s certificate. If a proxy like Burp Suite were used in this connection, the server would reject the connection.</description>
+    </item>
+    <item>
+      <title>DeepLink Misconfiguration: Accessing PIX and Account Data</title>
+      <link>http://localhost:1313/posts/deeplink-misconfiguration-pix/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/deeplink-misconfiguration-pix/</guid>
+      <description>While analyzing an application, I noticed that some deeplink calls contained the &amp;ldquo;path&amp;rdquo; parameter, and this parameter was being used to define the path of the WebView that the application was accessing.&#xA;Controlling the Path with Deeplinks So, we could control the path that the WebView was loading, but what if there was an &amp;ldquo;@&amp;rdquo; in the path parameter?&#xA;If we try to put an &amp;ldquo;@&amp;rdquo; in the path parameter, we can control the site that will be loaded in the application&amp;rsquo;s WebView because instead of accessing https://help-webview.</description>
+    </item>
     <item>
       <title>Race Condition: Some Real Cases</title>
       <link>http://localhost:1313/posts/race-condition-real-cases/</link>
