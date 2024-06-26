@@ -41,7 +41,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Learn more and contribute on .</description>
+      <description>About Me Hello, I&amp;rsquo;m Thalyson Sousa, a passionate cybersecurity professional specializing in ethical hacking and bug bounties. With a strong foundation in penetration testing, I have honed my skills to identify and mitigate security vulnerabilities effectively.&#xA;Professional Background I hold extensive experience in the cybersecurity domain, actively contributing to the security of numerous organizations through platforms like HackerOne, where I am recognized for my ability to uncover critical vulnerabilities. My work has not only strengthened the security posture of these organizations but also enhanced my expertise in various security methodologies.</description>
     </item>
     <item>
       <title>Tips for Analyzing Obfuscated Code</title>
