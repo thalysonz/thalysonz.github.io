@@ -1,6 +1,6 @@
 ---
 title: "Exploring mTLS in Mobile Applications"
-date: 2024-06-27
+date: 2024-06-26
 tags: ["web", "mobile", "bug-bounty", "en"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors

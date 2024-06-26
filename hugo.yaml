@@ -12,7 +12,7 @@ minify:
 markup:
   highlight:
     noClasses: false
-paginate: 3
+paginate: 4
 params:
   mode: dark
   useCDN: false
