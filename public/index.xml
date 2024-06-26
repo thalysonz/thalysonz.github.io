@@ -58,6 +58,13 @@
       <description>Introdução Finalizei minha análise estática no código do malware PixPirate. Uma parte significativa desse período foi dedicada a desofuscar os arquivos JavaScript utilizados pelo malware, que se empenhou bastante em dificultar a análise por parte de terceiros.&#xA;Como pode ser visto nas imagens abaixo, todos os arquivos presentes em &amp;ldquo;project.zip&amp;rdquo;, que é executado pelo malware usando o AutoJS (ferramenta responsável por cuidar da automação JS), estão ofuscados. Então, decidi aproveitar que estou focado nisso e trazer algumas dicas que podem ajudar caso vocês se deparem com algum código JavaScript obfuscado de agora em diante.</description>
     </item>
     <item>
+      <title>Pix Pirate Analysis</title>
+      <link>http://localhost:1313/posts/pix-pirate/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pix-pirate/</guid>
+      <description>Resumo Nome do pacote: com.dam.ninth&#xA;SHA256 hash: 911fa473f75d48e28384023b4a008d6d0877ad0fa58f9ebf38da1b02a1481314&#xA;Pixpirate é uma família de malware mobile que começou a ficar mais famosa entre o primeiro e segundo semestre de 2022. Ele faz uso das funções de acessibilidade do Android para obter informações do dispositivo, mapeando teclas e processos abertos. Entre as diversas funções desse novo malware, destacam-se as seguintes:&#xA;Observar/interagir com SMS; Observar/interagir com notificações; Evitar desinstalação; Observar aplicativos em execução no dispositivo; Uso das funções de acessibilidade; Etc.</description>
+    </item>
+    <item>
       <title>My 1st post</title>
       <link>http://localhost:1313/a/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>

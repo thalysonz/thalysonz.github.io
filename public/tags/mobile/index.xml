@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/deeplink-misconfiguration-pix/</guid>
       <description>While analyzing an application, I noticed that some deeplink calls contained the &amp;ldquo;path&amp;rdquo; parameter, and this parameter was being used to define the path of the WebView that the application was accessing.&#xA;Controlling the Path with Deeplinks So, we could control the path that the WebView was loading, but what if there was an &amp;ldquo;@&amp;rdquo; in the path parameter?&#xA;If we try to put an &amp;ldquo;@&amp;rdquo; in the path parameter, we can control the site that will be loaded in the application&amp;rsquo;s WebView because instead of accessing https://help-webview.</description>
     </item>
+    <item>
+      <title>Pix Pirate Analysis</title>
+      <link>http://localhost:1313/posts/pix-pirate/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pix-pirate/</guid>
+      <description>Resumo Nome do pacote: com.dam.ninth&#xA;SHA256 hash: 911fa473f75d48e28384023b4a008d6d0877ad0fa58f9ebf38da1b02a1481314&#xA;Pixpirate é uma família de malware mobile que começou a ficar mais famosa entre o primeiro e segundo semestre de 2022. Ele faz uso das funções de acessibilidade do Android para obter informações do dispositivo, mapeando teclas e processos abertos. Entre as diversas funções desse novo malware, destacam-se as seguintes:&#xA;Observar/interagir com SMS; Observar/interagir com notificações; Evitar desinstalação; Observar aplicativos em execução no dispositivo; Uso das funções de acessibilidade; Etc.</description>
+    </item>
   </channel>
 </rss>
