@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Analisando código do malware pixpirate"
+description: "Deeplink to pix steal"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -24,13 +24,13 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://cdn-images-1.medium.com/max/800/1*GWZv7nO5EqwGKzWNLJCJ8Q.jpeg" # image path/url
+    image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*zCwIgHCFhgCyZrNTB93WTw.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/thalysonz.github.io/posts/dicas-para-análise-de-código-obfuscado"
+    URL: "https://github.com/thalysonz.github.io/posts/deeplink-misconfiguration-pix/"
     Text: "s" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
