@@ -3,7 +3,7 @@ title: "DeepLink Misconfiguration: Accessing PIX and Account Data"
 date: 2024-05-26
 # weight: 1
 # aliases: ("/first")
-tags: ("mobile", "en")
+tags: ("mobile", "bug-bounty", "en")
 author: "Me"
 # author: ("Me", "You") # multiple authors
 showToc: true
