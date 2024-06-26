@@ -30,17 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>RD</title>
-      <link>http://localhost:1313/tags/rd/</link>
+      <title>Race-Condition</title>
+      <link>http://localhost:1313/tags/race-condition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WCD</title>
-      <link>http://localhost:1313/tags/wcd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wcd/</guid>
+      <guid>http://localhost:1313/tags/race-condition/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +41,13 @@
       <link>http://localhost:1313/tags/web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WCD</title>
+      <link>http://localhost:1313/tags/wcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wcd/</guid>
       <description></description>
     </item>
     <item>

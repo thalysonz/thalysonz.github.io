@@ -6,14 +6,14 @@
     <description>Recent content in Web on thalysonz</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Race Condition: Some Real Cases</title>
       <link>http://localhost:1313/posts/race-condition-real-cases/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/race-condition-real-cases/</guid>
-      <description>Race Condition DRAFT Introduction DRAFT </description>
+      <description>Understanding Race Conditions Race conditions are a prevalent vulnerability closely linked to business logic flaws in web applications. They arise when websites process concurrent requests without proper safeguards, leading to multiple threads interacting with the same data simultaneously. This interaction can cause &amp;ldquo;collisions,&amp;rdquo; resulting in unintended application behavior. Malicious actors exploit these race conditions by carefully timing their requests to create intentional collisions for nefarious purposes.&#xA;For those interested in diving deeper into race conditions or practicing in controlled environments, numerous online labs and resources are available.</description>
     </item>
     <item>
       <title>Web Cache Deception: Some Real Cases</title>
