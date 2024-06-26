@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thalysonz</title>
-    <link>https://thalysonz.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on thalysonz</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thalysonz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepLink Misconfiguration: Accessing PIX and Account Data</title>
+      <link>http://localhost:1313/posts/deeplink-misconfiguration-pix/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/deeplink-misconfiguration-pix/</guid>
+      <description>While analyzing an application, I noticed that some deeplink calls contained the &amp;ldquo;path&amp;rdquo; parameter, and this parameter was being used to define the path of the WebView that the application was accessing.&#xA;Controlling the Path with Deeplinks So, we could control the path that the WebView was loading, but what if there was an &amp;ldquo;@&amp;rdquo; in the path parameter?&#xA;If we try to put an &amp;ldquo;@&amp;rdquo; in the path parameter, we can control the site that will be loaded in the application&amp;rsquo;s WebView because instead of accessing https://help-webview.</description>
+    </item>
     <item>
       <title>Race Condition: Some Real Cases</title>
-      <link>https://thalysonz.github.io/posts/race-condition-real-cases/</link>
+      <link>http://localhost:1313/posts/race-condition-real-cases/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/posts/race-condition-real-cases/</guid>
+      <guid>http://localhost:1313/posts/race-condition-real-cases/</guid>
       <description>Race Condition DRAFT Introduction DRAFT </description>
     </item>
     <item>
       <title>Web Cache Deception: Some Real Cases</title>
-      <link>https://thalysonz.github.io/posts/web-cache-deception/</link>
+      <link>http://localhost:1313/posts/web-cache-deception/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/posts/web-cache-deception/</guid>
+      <guid>http://localhost:1313/posts/web-cache-deception/</guid>
       <description>Web Cache Deception (WCD) Web Cache Deception (WCD) is an attack in which an attacker tricks a cache proxy into improperly storing private information sent over the Internet, gaining unauthorized access to these cached data. It was proposed by Omer Gil, a security researcher, in 2017.&#xA;Introduction Many are already aware of what Web Cache Deception is and how its exploitation works, so today I wanted to bring something different and show some real scenarios that I reported in 2023 in bug bounty programs.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://thalysonz.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Learn more and contribute on .</description>
     </item>
     <item>
       <title>Tips for Analyzing Obfuscated Code</title>
-      <link>https://thalysonz.github.io/posts/tips-for-analyzing-obfuscated-code/</link>
+      <link>http://localhost:1313/posts/tips-for-analyzing-obfuscated-code/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/posts/tips-for-analyzing-obfuscated-code/</guid>
+      <guid>http://localhost:1313/posts/tips-for-analyzing-obfuscated-code/</guid>
       <description>Introduction I have completed my static analysis of the PixPirate malware code. A significant part of this period was dedicated to deobfuscating the JavaScript files used by the malware, which made considerable efforts to complicate analysis by third parties.&#xA;As can be seen in the images below, all files in &amp;ldquo;project.zip&amp;rdquo;, executed by the malware using AutoJS (a tool responsible for handling JS automation), are obfuscated. Therefore, I decided to take advantage of my current focus on this topic and provide some tips that might be helpful if you encounter any obfuscated JavaScript code in the future.</description>
     </item>
     <item>
       <title>Dicas para análise de código ofuscado</title>
-      <link>https://thalysonz.github.io/posts/dicas-para-analise-de-codigo-obfuscado/</link>
+      <link>http://localhost:1313/posts/dicas-para-analise-de-codigo-obfuscado/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/posts/dicas-para-analise-de-codigo-obfuscado/</guid>
+      <guid>http://localhost:1313/posts/dicas-para-analise-de-codigo-obfuscado/</guid>
       <description>Introdução Finalizei minha análise estática no código do malware PixPirate. Uma parte significativa desse período foi dedicada a desofuscar os arquivos JavaScript utilizados pelo malware, que se empenhou bastante em dificultar a análise por parte de terceiros.&#xA;Como pode ser visto nas imagens abaixo, todos os arquivos presentes em &amp;ldquo;project.zip&amp;rdquo;, que é executado pelo malware usando o AutoJS (ferramenta responsável por cuidar da automação JS), estão ofuscados. Então, decidi aproveitar que estou focado nisso e trazer algumas dicas que podem ajudar caso vocês se deparem com algum código JavaScript obfuscado de agora em diante.</description>
     </item>
     <item>
       <title>My 1st post</title>
-      <link>https://thalysonz.github.io/a/</link>
+      <link>http://localhost:1313/a/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://thalysonz.github.io/a/</guid>
+      <guid>http://localhost:1313/a/</guid>
       <description></description>
     </item>
   </channel>

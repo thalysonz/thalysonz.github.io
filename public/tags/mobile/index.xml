@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on thalysonz</title>
+    <link>http://localhost:1313/tags/mobile/</link>
+    <description>Recent content in Mobile on thalysonz</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepLink Misconfiguration: Accessing PIX and Account Data</title>
+      <link>http://localhost:1313/posts/deeplink-misconfiguration-pix/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/deeplink-misconfiguration-pix/</guid>
+      <description>While analyzing an application, I noticed that some deeplink calls contained the &amp;ldquo;path&amp;rdquo; parameter, and this parameter was being used to define the path of the WebView that the application was accessing.&#xA;!(IMG)[https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wWBYh7-N0u06U4IYV_XyVQ.png]&#xA;Controlling the Path with Deeplinks So, we could control the path that the WebView was loading, but what if there was an &amp;ldquo;@&amp;rdquo; in the path parameter?&#xA;If we try to put an &amp;ldquo;@&amp;rdquo; in the path parameter, we can control the site that will be loaded in the application&amp;rsquo;s WebView because instead of accessing https://help-webview.</description>
+    </item>
+  </channel>
+</rss>

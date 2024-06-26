@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on thalysonz</title>
-    <link>https://thalysonz.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on thalysonz</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thalysonz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bug-bounty</title>
-      <link>https://thalysonz.github.io/tags/bug-bounty/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/bug-bounty/</guid>
+      <title>(&#34;Mobile&#34;, &#34;En&#34;)</title>
+      <link>http://localhost:1313/tags/mobile-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mobile-en/</guid>
       <description></description>
     </item>
     <item>
-      <title>en</title>
-      <link>https://thalysonz.github.io/tags/en/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/en/</guid>
+      <title>Bug-Bounty</title>
+      <link>http://localhost:1313/tags/bug-bounty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bug-bounty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>En</title>
+      <link>http://localhost:1313/tags/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/en/</guid>
       <description></description>
     </item>
     <item>
       <title>RD</title>
-      <link>https://thalysonz.github.io/tags/rd/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/rd/</guid>
+      <link>http://localhost:1313/tags/rd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rd/</guid>
       <description></description>
     </item>
     <item>
       <title>WCD</title>
-      <link>https://thalysonz.github.io/tags/wcd/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/wcd/</guid>
+      <link>http://localhost:1313/tags/wcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wcd/</guid>
       <description></description>
     </item>
     <item>
-      <title>web</title>
-      <link>https://thalysonz.github.io/tags/web/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/web/</guid>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
     </item>
     <item>
-      <title>code</title>
-      <link>https://thalysonz.github.io/tags/code/</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/code/</guid>
+      <title>Code</title>
+      <link>http://localhost:1313/tags/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/code/</guid>
       <description></description>
     </item>
     <item>
-      <title>pt</title>
-      <link>https://thalysonz.github.io/tags/pt/</link>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/pt/</guid>
+      <title>Pt</title>
+      <link>http://localhost:1313/tags/pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pt/</guid>
       <description></description>
     </item>
     <item>
-      <title>first</title>
-      <link>https://thalysonz.github.io/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://thalysonz.github.io/tags/first/</guid>
+      <title>First</title>
+      <link>http://localhost:1313/tags/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/first/</guid>
       <description></description>
     </item>
   </channel>

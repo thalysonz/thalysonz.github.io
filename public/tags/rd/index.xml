@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RD on thalysonz</title>
-    <link>https://thalysonz.github.io/tags/rd/</link>
+    <link>http://localhost:1313/tags/rd/</link>
     <description>Recent content in RD on thalysonz</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thalysonz.github.io/tags/rd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Race Condition: Some Real Cases</title>
-      <link>https://thalysonz.github.io/posts/race-condition-real-cases/</link>
+      <link>http://localhost:1313/posts/race-condition-real-cases/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thalysonz.github.io/posts/race-condition-real-cases/</guid>
+      <guid>http://localhost:1313/posts/race-condition-real-cases/</guid>
       <description>Race Condition DRAFT Introduction DRAFT </description>
     </item>
   </channel>

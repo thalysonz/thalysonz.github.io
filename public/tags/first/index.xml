@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>first on thalysonz</title>
-    <link>https://thalysonz.github.io/tags/first/</link>
-    <description>Recent content in first on thalysonz</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>First on thalysonz</title>
+    <link>http://localhost:1313/tags/first/</link>
+    <description>Recent content in First on thalysonz</description>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://thalysonz.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://thalysonz.github.io/a/</link>
+      <link>http://localhost:1313/a/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://thalysonz.github.io/a/</guid>
+      <guid>http://localhost:1313/a/</guid>
       <description></description>
     </item>
   </channel>
