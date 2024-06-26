@@ -98,7 +98,7 @@ The custom bridge allowed me to intercept sensitive information and perform acti
 
 1. **user data**: We can use the javascript bridge to get the user data, we can easily save this data by sending it to our server and storing it. As a visual example, I gave an Alert() on the data received from the javascript bridge
 
-!()(https://miro.medium.com/v2/resize:fit:530/format:webp/1*o0pZjce0sTO-OYlmLLS4AA.png)
+![datauser](https://miro.medium.com/v2/resize:fit:530/format:webp/1*o0pZjce0sTO-OYlmLLS4AA.png)
 
 2. **PIX transfers**: To make it even more critical, I decided to use the application’s API, which we could interact with to request a transfer in the background after loading the page. It required a second implementation in the bridge we had developed, but in the end, it was possible.
 
